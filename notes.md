@@ -6,3 +6,7 @@
    weather data monitoring
    website change detection
    web data integration
+
+- selenium is a web browser automation tool.
+
+NOTE: Web scraping is against most websites’ terms of service. Your IP address may be banned from a website if you scrape too frequently or maliciously.
