@@ -1,6 +1,6 @@
 # Web-Scraping
 
-learning how to scrape websites with Selenium and ChromeDriver. 
+learning how to scrape websites with Python, Selenium and ChromeDriver. 
 
 Being scraped is a github account to get repo's and titles.
 
