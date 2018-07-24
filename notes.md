@@ -1,3 +1,4 @@
+- notes
 - this is a technique used for extracting data from websites.
 - use cases
    Contact scraping
@@ -10,3 +11,11 @@
 - selenium is a web browser automation tool.
 
 NOTE: Web scraping is against most websites’ terms of service. Your IP address may be banned from a website if you scrape too frequently or maliciously.
+
+- requirements 
+python3
+pip
+selenium package
+chromedriver
+virtualenv
+extras
