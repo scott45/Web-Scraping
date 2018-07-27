@@ -6,7 +6,7 @@ Being scraped is a github account to get repo's and titles.
 
 > https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72
 
-### solving this pip installing dependancy error / ssl certs
+### solving this pip installing dependancy error / ssl certs (helpful)
 > upgrade pip with `curl https://bootstrap.pypa.io/get-pip.py | python3`
 > https://github.com/pypa/pip/issues/5236
 
