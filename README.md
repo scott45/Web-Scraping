@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web Scraping
 
 learning how to scrape websites with Python, Selenium and ChromeDriver. 
 
